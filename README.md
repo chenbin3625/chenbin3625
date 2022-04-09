@@ -1,6 +1,6 @@
 
 ## Hello GitHub Fans 👋
-[![E'-Mail](https://img.shields.io/badge/e--mail-chenbin3625%40qq.com-green](mailto:chenbin3625@qq.com)
+![E'-Mail](https://img.shields.io/badge/e--mail-chenbin3625%40qq.com-green](mailto:chenbin3625@qq.com)
 
 ### 🛠 技术栈 | Tech Stack
 
