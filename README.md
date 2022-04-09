@@ -1,5 +1,5 @@
 
-## Hello GitHub Fans 👋
+## 哈喽 👋
 ![E'-Mail](https://img.shields.io/badge/e--mail-chenbin3625%40qq.com-green)
 
 ### 🛠 技术栈 | Tech Stack
