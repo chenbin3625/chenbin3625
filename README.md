@@ -1,6 +1,6 @@
 
 ## 哈喽 👋
-![E'-Mail](https://img.shields.io/badge/e--mail-chenbin3625%40qq.com-green)
+![E'-Mail](https://img.shields.io/badge/e--mail-chenbin3625%40qq.com-brightgreen)
 
 ### 🛠 技术栈 | Tech Stack
 
