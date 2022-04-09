@@ -22,6 +22,3 @@
 
 ### 关于我
 - [个人博客](https://www.u1n1.com/)
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-⭐️ From [chenbin](https://github.com/chenbin3625)
