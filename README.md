@@ -65,7 +65,6 @@
 | [google-photos-exif-fixer](https://github.com/chenbin3625/google-photos-exif-fixer) | 原创 / 数据修复 | 将 Google Photos Takeout 的 JSON 元数据写回照片 EXIF，并按年月整理媒体库。<br>Restores Google Photos Takeout JSON metadata into EXIF and organizes media by year and month. | Go, EXIF, CLI |
 | [sandbox-zn-screen](https://github.com/chenbin3625/sandbox-zn-screen) | 原创 / 前端可视化 | Vue 3 智慧大屏沙箱，包含登录、后台管理、监控页和大屏展示原型。<br>Vue 3 smart-screen sandbox for login, admin, monitoring, and full-screen visualization prototypes. | Vue, Vite, ECharts, Pinia |
 | [myblog](https://github.com/chenbin3625/myblog) | 原创 / 毕设项目 | 2023 本科毕业设计博客系统，包含博客前台、管理后台和 Express / MongoDB 服务端。<br>Undergraduate thesis blog system with public frontend, admin dashboard, and Express / MongoDB backend. | Vue, TypeScript, Express, MongoDB |
-| [custom_host](https://github.com/chenbin3625/custom_host) | 原创 / 配置片段 | 内网开发环境 hosts 映射片段，用于本地访问内部服务。<br>Hosts-file mapping snippet for internal development services. | hosts, network config |
 | [chenbin3625](https://github.com/chenbin3625/chenbin3625) | 个人主页 | 当前 GitHub Profile README 仓库。<br>This GitHub profile README repository. | Markdown |
 | [NodeWarden](https://github.com/chenbin3625/NodeWarden) | Fork / 上游项目 | Bitwarden 兼容的 Cloudflare Workers 服务端 fork；该 fork 保持上游同步，不在这里改动。<br>Fork of a Bitwarden-compatible Cloudflare Workers server; kept upstream-based and not modified here. | TypeScript, Cloudflare Workers |
 
@@ -132,7 +131,6 @@ I like tools that can run for a long time and still feel understandable: single 
 | [google-photos-exif-fixer](https://github.com/chenbin3625/google-photos-exif-fixer) | Original / Data Repair | Restores Google Photos Takeout JSON metadata into EXIF and organizes media by year and month. | Go, EXIF, CLI |
 | [sandbox-zn-screen](https://github.com/chenbin3625/sandbox-zn-screen) | Original / Frontend Visualization | Vue 3 smart-screen sandbox for login, admin, monitoring, and full-screen visualization prototypes. | Vue, Vite, ECharts, Pinia |
 | [myblog](https://github.com/chenbin3625/myblog) | Original / Thesis Project | Undergraduate thesis blog system with public frontend, admin dashboard, and Express / MongoDB backend. | Vue, TypeScript, Express, MongoDB |
-| [custom_host](https://github.com/chenbin3625/custom_host) | Original / Config Snippet | Hosts-file mapping snippet for internal development services. | hosts, network config |
 | [chenbin3625](https://github.com/chenbin3625/chenbin3625) | Profile | This GitHub profile README repository. | Markdown |
 | [NodeWarden](https://github.com/chenbin3625/NodeWarden) | Fork / Upstream-based | Fork of a Bitwarden-compatible Cloudflare Workers server; kept upstream-based and not modified here. | TypeScript, Cloudflare Workers |
 
